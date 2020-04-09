@@ -1,4 +1,9 @@
 Hola mundo
 linea 1 
+<<<<<<< HEAD
 linea 2 para la version de master
 linea 3 para la version de master 
+=======
+linea 2 para la version de login
+linea 3 para la version de login 
+>>>>>>> login
